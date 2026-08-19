@@ -1,6 +1,6 @@
 ---
 noteDate: "2026-05-30 20:44 WIB"
-tags: "#butwhy"
+tags: "#dog"
 ---
 
 Mencari apapun yang bisa dimakan, terkadang menyelinap diantara kesunyian hanya untuk mencari hal yang bisa dimakan.
