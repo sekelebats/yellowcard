@@ -18,8 +18,6 @@ The one who says "no, you can't do that" might already hold a silver (or worst, 
 
 They were **already** rich since birth, but you are not...
 
-# hah
-
 So, if you follow that advice, you will never start a business because you are too scared to lose money and time.
 
 > But it's not a real business if you use free classes (or free assets) from the internet... Have you ever felt ashamed?
@@ -40,7 +38,6 @@ Just use **free** tools.
 
 If you open GitHub, you will find someone releasing free LLMs, so you can host them on your own server.
 
-## haha I'm my 
 Our blog here uses GitHub to store our code, uses Netlify's free tier for hosting, and uses Eleventy as the base because we love static sites (fast and safe, no server stuff).
 
 Don't have money to hire a graphic designer? Just visit Gumroad, and you will find good people sharing their work for free, really...
