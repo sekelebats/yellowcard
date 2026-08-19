@@ -155,10 +155,4 @@ Minify html dengan css dan script inline bukan beda folder.
 
 Untuk saat ini saya sudah puas, mungkin dilain waktsaya pakai buat section post list jadi user bisa browse artefak arsip atau buat RSS atau mungkin copy to clipboard atau share ya betul satu satunya yang bisa kamu lakukan untuk share blog adalah dengan cara kopi url di tab atas, sekian.
 
-Cara panggil gambar di `file.md` sekarang begini
-
-```
-{% image "/images/betterlyfe.webp", "Example", 2000, 1500 %}
-
-{% image "/images/7.webp", "Example", 2000, 1500 %}
-```
+Cara panggil gambar di `file.md` sekarang begini (ga bisa ditampilkan shortcode nya karena cloudflare sensitif banget yang ad build gagal, edit: Rabu, 19-08-2026 21:13 WIB dikamar sperti biasa).
